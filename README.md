@@ -34,10 +34,4 @@ Good design is invisible. Bad design is everywhere. I build things where form fo
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miasus-agentic&show_icons=true&theme=dark&hide_border=true)
-
----
-
 > Design is not just what it looks like. Design is how it works.
