@@ -15,24 +15,29 @@ Good design is invisible. Bad design is everywhere. I build things where form fo
 - **Web Apps** — Full-stack, responsive, accessible
 - **Design Systems** — Tokens, components, documentation
 - **Music & Media Tools** — Players, visualizers, audio experiments
-- **Prototypes** — Fast iterations, real feedback
+- **Creative Coding** — Generative art, shaders, interactive pieces
 
 ---
 
-## Featured Work
+## Stack
 
-- [music-player](https://github.com/miasus-agentic/music-player) — Browser-based music player with waveform visualization
-- [design-tokens](https://github.com/miasus-agentic/design-tokens) — CSS custom properties design system
-- [ui-playground](https://github.com/miasus-agentic/ui-playground) — Interactive UI component experiments
-
----
-
-## Tools
-
-`JavaScript` `React` `CSS` `Figma` `Framer Motion` `Web Audio API`
+`TypeScript` `React` `Vue` `Svelte` `Tailwind CSS` `Figma`
+`Node.js` `Python` `Three.js` `p5.js`
 
 ---
 
-<p align="center">
-<i>Design is not just what it looks like. Design is how it works.</i>
-</p>
+## Featured
+
+| Repo | Description |
+|------|-------------|
+| [NeuralForge-Complete](https://github.com/miasus-agentic/NeuralForge-Complete) | End-to-end neural network toolkit |
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miasus-agentic&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+> Design is not just what it looks like. Design is how it works.
